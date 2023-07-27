@@ -16,7 +16,7 @@ class Bobot{
 	
 	function insert($a,$b,$c){
 		
-		$query = "insert into ".$this->table_name." values('$a','$b','','$c')";
+		$query = "insert into ".$this->table_name." values('$a','$b','0','$c')";
 		$stmt = $this->conn->prepare($query);
 		
 		if($stmt->execute()){
