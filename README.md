@@ -7,6 +7,8 @@ Langkah-langkah didalam menggunakan metode AHP adalah (a) Memecah masalah dalam 
 
 tugas SPK STT NF
 
+![image.png]( {https://github.com/luqni/new-tugas-spk-ahp/blob/master/Screenshot.png} )
+
 step installasi aplikasi
 
 1. download atau clone project dari https://github.com/luqni/tugas-spk-ahp.git
